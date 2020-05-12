@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\bin\Debug\Simplified21JohnO.exe.config
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\bin\Debug\Simplified21JohnO.exe
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\bin\Debug\Simplified21JohnO.pdb
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\obj\Debug\Simplified21JohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\obj\Debug\Simplified21JohnO.frmSimplified21.resources
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\obj\Debug\Simplified21JohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\obj\Debug\Simplified21JohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\obj\Debug\Simplified21JohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\obj\Debug\Simplified21JohnO.exe
+C:\Users\mails\source\repos\Simplified21JohnO\Simplified21JohnO\obj\Debug\Simplified21JohnO.pdb
